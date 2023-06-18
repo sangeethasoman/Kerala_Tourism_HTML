@@ -1,0 +1,174 @@
+.container{
+    width: 100%;
+    height: 1000px;
+    float: left;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.header{
+    width: 100%;
+    height: 110px;
+    float: left;
+    background-image:  url("images/header.jpg");
+    background-size: cover;
+}
+.header a{
+    text-decoration: none;
+    color: white;
+}
+
+.logo{
+    width: 65%;
+    height: 110px;
+    float: left;
+    margin-top: 16px;
+    text-align: initial;
+}
+.navigation{
+    width: 35%;
+    height: 110px;
+    float: left;
+}
+.navButton{
+    width: 17%;
+    height: 20%;
+    float: left;
+    background-color: rgb(243, 21, 21);
+    margin-left: 4px;
+    text-align: center;
+    margin-top: 18%;
+    border-radius: 3px;
+}
+.homeImage{
+    width: 100%;
+    height: 46%;
+    float: left;
+    background-size: cover;
+    background-image:url("images/kochi-muziris-biennale.jpg"); 
+}
+.exploreText{
+    width: 100%;
+    height: 4%;
+    float: left;
+    margin-top: 10px;
+    text-align: center;
+    background-color: #60c6dd;
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 12px;
+}
+.explore{
+    width: 100%;
+    height: 36%;
+    float: left;
+    background-color: rgb(53 130 166 / 16%);
+}
+.exploreImage{
+    width: 23%;
+    height: 94%;
+    float: left;
+    background-color: rgb(105 53 166 / 44%);
+    margin: 1%;
+}
+.expImage{
+    width: 100%;
+    height: 90%;
+    float: left;   
+    background-size: cover;
+}
+.artFormsImg{
+background-image:url("images/artforms.jpg"); 
+}
+.festivalsImg{
+    background-image: url("images/Festivals.jpg");
+}
+.keralaCuisineImg{
+background-image:url("images/keralaCuisine.jpg"); 
+} 
+.ayurvedaImg{
+    background-image: url("images/ayurveda.jpg");
+}
+.sanctuaryImg{
+    background-image: url("images/aralam.jpg");
+}
+.bekalFortImg{
+    background-image: url("images/Bekal_Fort.jpg");
+}
+.malrikkalImg{
+    background-image: url("images/malarikkal.jpg");
+}
+.munnarImg{
+    background-image: url("images/munar.jpg");
+}
+.heritageTourImg{
+    background-image: url("images/Heritage-Tour.jpg");
+}
+.parasailingImg{
+    background-image: url("images/parasailing.jpg");
+}
+.trekkingImg{
+    background-image: url("images/Trekking.jpg");
+}
+.cityRideImg{
+    background-image: url("images/city-ride.jpg");
+}
+.expName{
+    width: 100%;
+    height: 7%;
+    background-color: rgb(245, 160, 23);
+    float: left;
+    text-align: center;
+    border-top: 2px solid rgb(7 7 7 / 52%);
+    padding-top: 4px;
+    color: white;
+}
+.pagination{
+    width: 100%;
+    height: 3%;
+    float: left;
+    background-color: #60c6dd;
+    margin-top: 7px;
+    text-align: center;
+}
+.pagination a {
+    color:white;
+    border: 1px solid rgb(48, 152, 178);
+    padding: 2px 17px;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: -webkit-baseline-middle;
+}
+
+.active {
+    background-color:  rgb(243, 21, 21);
+}
+
+.pagination a:hover {
+    background-color:  rgb(236, 172, 172);;
+    border-radius: 15px;
+}
+
+.pagination a:first-child {
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.pagination a:last-child {
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
+} 
+.btncolor{
+    background-color:  rgb(243, 21, 21);
+    color: white;
+    width: 134px;
+    height: 30px;
+}
+.marq{
+    float: left;
+    width: 100%;
+    height: 20px;
+    background-color: rgb(53 130 166 / 16%);
+}
+.marq marquee{
+    color: rgb(41, 109, 87);
+}

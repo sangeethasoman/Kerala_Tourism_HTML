@@ -1,0 +1,16 @@
+.container{
+    height: 700px !important;
+    text-align: center;
+    color: white;
+}
+.signup{
+    width:100%;
+    height: 700px;
+    float: left;
+    background-image: url('images/signup.jpg');
+    background-size: cover;
+    margin-top: 10px;
+}
+.pagination{ 
+    height: 4% !important;
+}

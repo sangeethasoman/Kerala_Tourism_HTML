@@ -1,0 +1,16 @@
+.container{
+    height: 500px !important;
+    text-align: center;
+    color: white;
+}
+.signin{
+    width:100%;
+    height: 400px;
+    float: left;
+    background-image: url('images/signin.jpg');
+    background-size: cover;
+    margin-top: 10px;
+}
+.pagination{ 
+    height: 6% !important;
+}
